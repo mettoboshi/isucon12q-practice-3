@@ -1,7 +1,7 @@
 #!/bin/sh
 # arch
-arch="aarch64"
-# arch="x86_64"
+# arch="aarch64"
+arch="x86_64"
 
 # version
 version="v1.14.0"

@@ -4,8 +4,8 @@
 VERSION = "1.10.1"
 
 # アーキテクチャ
-ARCH = "arm64"
-# ARCH = "amd64"
+#ARCH = "arm64"
+ARCH = "amd64"
 
 # プラットフォーム
 PLATFORM = "linux"

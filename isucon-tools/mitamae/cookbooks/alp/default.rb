@@ -1,7 +1,7 @@
 # alpのバージョンとアーキテクチャを指定
 VERSION = "1.0.14"
-# ARCH = "linux_amd64"
-ARCH = "linux_arm64"
+ARCH = "linux_amd64"
+# ARCH = "linux_arm64"
 
 BIN_DIR = File.expand_path('../../../../bin', __FILE__)
 
